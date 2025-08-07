@@ -1,0 +1,15 @@
+metadata.jeson 
+
+{
+  "name": "PennyDoge",
+  "symbol": "PDOGE",
+  "description": "PennyDoge ($PDOGE) is the first legally registered Indian meme coin with anime-style branding and gamified utility. Built on Solana.",
+  "image": "https://raw.githubusercontent.com/genz6786/penny-token-assets/main/assets/FdQNAZdi8WCHLXHmAq8d8CeJhfyPTykXJ1B62aZGNKBV/logo.png",
+  "decimals": 6,
+  "extensions": {
+    "website": "https://pennydoge.in",
+    "twitter": "https://twitter.com/PennyDogeIN",
+    "telegram": "https://t.me/PennyDogeIN",
+    "discord": "https://discord.gg/YOUR_INVITE_CODE"
+  }
+}
